@@ -18,7 +18,8 @@
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-functional-and-non-functional-requirements">Functional and non-functional requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -51,21 +52,6 @@
 - [x] The transaction can be of the credit type that will add to the total amount, or debit will subtract;
 - [x] It must be possible to identify the user among the requests;
 - [x] User can only view transactions which he created;
-
-## 👩🏻‍💻 Technologies
-
-Technologies used to develop this project:
-
-- Node.js
-- Typescript
-- Fastify
-- Knex
-- PostgreSQL
-- SQLite
-- Zod
-- TSup
-- Vitest
-- Supertest
 
 ## 🚃 Routes
 
@@ -111,6 +97,21 @@ Technologies used to develop this project:
     <td>N/A</td>
   </tr>
 </table>
+
+## 👩🏻‍💻 Technologies
+
+Technologies used to develop this project:
+
+- Node.js
+- Typescript
+- Fastify
+- Knex
+- PostgreSQL
+- SQLite
+- Zod
+- TSup
+- Vitest
+- Supertest
 
 ## 🖥 Preview
 
