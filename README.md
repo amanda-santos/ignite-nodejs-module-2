@@ -33,7 +33,9 @@
 
 <p>The app is fully tested with E2E tests done with Vitest and Supertest.</p>
 
-<p>Developed as part of Ignite Node.js by (<a href="https://www.rocketseat.com.br/">Rocketseat</a>) 🚀</p>
+<p>Access the API through <a href="https://transactions-api-ukop.onrender.com/" target="_blank">this</a> link.</p>
+
+<p>Developed as part of Ignite Node.js by <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> 🚀</p>
 
 ## ✔️ Functional and non-functional requirements
 
@@ -112,12 +114,13 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
-
+https://user-images.githubusercontent.com/49074930/224413220-4600101d-39c5-44d2-811a-f00aa97802a6.mp4
 
 ## ⌨ Getting started
 
 ### Running the server
 
+- Create `.env` file based on `.env.example`
 - Run `npm i` to install the dependencies
 - Run `npm run knex -- migrate:latest` to run the migrations
 - Run the development server with `npm run dev`
@@ -125,6 +128,7 @@ Technologies used to develop this project:
 
 ### Running E2E tests
 
+- Create `.env.test` file based on `.env.test.example`
 - Run `npm test`
 
 ## 🤔 How to contribute
